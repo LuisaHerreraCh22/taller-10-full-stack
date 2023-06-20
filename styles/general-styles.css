@@ -9,7 +9,7 @@ h1 {
 
 h2 {
   font-size: 32px;
-  color: #fd8f54e2;
+  color: #d654fde2;
 }
 
 section {
@@ -38,14 +38,14 @@ input {
   width: 250px;
   height: 35px;
   border: none;
-  border-bottom: 2px solid #fd8f54e2;
+  border-bottom: 2px solid #db54fde2;
   outline: none;
   text-align: center;
 }
 
 select {
   height: 35px;
-  background-color: #f2f2f2;
+  background-color: #bb2acead;
   border: none;
   text-align: center;
   outline: none;
@@ -55,7 +55,7 @@ a, button {
   margin: 20px 0 40px;
   padding: 12px 125px;
   color: #ffffff;
-  background-color: #fd8f54e2;
+  background-color: #b154fde2;
   border: none;
   border-radius: 5px;
   font-family: system-ui, -apple-system;
@@ -66,7 +66,7 @@ a, button {
 }
 
 a:hover, button:hover{
-  background-color: #e87537e2;
+  background-color: #b037e8e2;
 }
 
 table {
