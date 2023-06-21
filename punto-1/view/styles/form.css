@@ -1,13 +1,18 @@
 .form_row{
     width:50% ;
     display: flex;
-    gap: 5px;
+    gap: 10px;
     flex-wrap: wrap;
+    justify-content: center;
     margin: 30px 0px;
 }
 select{
+    margin: 10px 0px;
     padding: 5px 60px;
+    width:100% ;
+    color: aliceblue;
 }
 option{
     text-align:left;
+    color: aliceblue;
 }

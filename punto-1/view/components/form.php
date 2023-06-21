@@ -26,8 +26,9 @@
         </div>
 
     </div>
+    
+    <div>
     <button>Calcular</button>
-    <div class="volver">
     <a href="../index.php">Volver</a>
     </div>
 
