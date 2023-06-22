@@ -1,17 +1,17 @@
 <?php include"./controller/calculationController.php";?>
 
 <form method="post">
-    <h2>Calculadora de mayoria de edad</h2>
+    <h2>Calculadora de mayoria de edad con fechas</h2>
     <div class="form_row">
         <div>
             <label for="name">Nombre</label>
-            <input id="name"type="text" name="name" placeholder="jhon">
+            <input id="name"type="text" name="name" placeholder="jhon" required>
 
         </div>
         <br>
         <div>
-            <label for="age-person">Edad</label>
-            <input id="age-person"type="text" name="age_person" placeholder="12"> 
+            <label for="date-birth">Seleccione su fecha de nacimiento</label>
+            <input id="date-birth"type="date" name="date_birth" required> 
         </div>
 
     </div>

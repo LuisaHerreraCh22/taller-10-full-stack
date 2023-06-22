@@ -46,6 +46,7 @@ input {
 
 select {
   height: 35px;
+  width: 250px;
   background-color: #bb2acead;
   border: none;
   text-align: center;
@@ -54,7 +55,7 @@ select {
 
 a, button {
   margin: 20px 0 40px;
-  padding: 12px 125px;
+  padding: 12px 60px;
   color: #ffffff;
   background-color: #b154fde2;
   border: none;
@@ -64,6 +65,8 @@ a, button {
   font-weight: bold;
   text-decoration: none;
   cursor: pointer;
+  width: auto;
+  height: auto;
 }
 
 a:hover, button:hover{

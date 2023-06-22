@@ -9,7 +9,7 @@
     <title>Punto 3</title>
 </head>
 <body>
-    <h1>Enviar datos del usuario</h1>
+    <h1>Punto 3- Enviar datos del usuario</h1>
     <hr>
     <?php include"./view/components/form.php";?>
 

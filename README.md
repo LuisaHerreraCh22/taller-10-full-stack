@@ -4,17 +4,23 @@
 <p>Curso: full Stack Basico - Grupo 1 </p>
 <p>Profesor: Cristian Patiño</p>
 
-<h2> Punto 1: </h2>
+<h2> Punto 1: Operación de dos números</h2>
+<img src="./public/images/punto1.png" alt="calculadora">
 
 
 
-<h2> Punto 2: </h2>
+<h2> Punto 2: Calculo de mayoria de edad</h2>
+<img src="./public/images/punto2.png" alt="calculadoraMayoriaEdad">
 
 
-<h2> Punto 3: </h2>
+<h2> Punto 3: Enviar datos del usuario</h2>
+<img src="./public/images/punto3.png" alt="registro">
+
+<img src="./public/images/punto3.1.png" alt="registro">
 
 
 <h2> Punto 4: </h2>
+<img src="./public/images/punto4.png" alt="fechaNacimiento">
 
 
 <h2> Punto 5 - 6 - 7: </h2>
